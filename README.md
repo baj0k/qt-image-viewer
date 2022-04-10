@@ -1,13 +1,6 @@
 Very basic image viewer written in Qt
 
-After downloading go to project directory and run:
-
+## Installation
 ```
-qmake
-```
-
-and then
-
-```
-make
+qmake && make
 ```
